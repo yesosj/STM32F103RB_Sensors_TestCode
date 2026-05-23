@@ -1,0 +1,5 @@
+파랑 -> PA0 (GPIO_OUTPUT)
+분홍 -> PA1 (GPIO_OUTPUT)
+노랑 -> PA4 (GPIO_OUTPUT)
+주황 -> PB0 (GPIO_OUTPUT)
+
