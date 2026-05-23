@@ -4,6 +4,8 @@ PA9 (GPIO_OUTPUT) -> Trig
 
 SYS -> Serial Wire
 
+UART2 -> Asyncronous
+
 TIM1 -> Clock Source -> Internal clock
 
 TIM1 -> configuration -> Prescaler : 72 -1 
